@@ -10,7 +10,7 @@ namespace ADO
             //ConnectedMode.ConnectedStoredProcedure();
             //ConnectedMode.ConnectedScalar();
             DisconnectedMode.Disconnected();
-            ConnectedMode.Connected();
+            ConnectedMode.Connected(); 
         }
     }
 }
